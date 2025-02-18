@@ -1,0 +1,49 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": null,
+    "showDescriptions": true,
+    "plugins": {
+      "obsidian42-brat": {
+        "startupType": "instant"
+      },
+      "code-files": {
+        "startupType": "instant"
+      },
+      "datacore": {
+        "startupType": "instant"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-hover-editor": {
+        "startupType": "instant"
+      },
+      "obsidian-kanban": {
+        "startupType": "instant"
+      },
+      "mesh-ai": {
+        "startupType": "instant"
+      },
+      "quickadd": {
+        "startupType": "disabled"
+      },
+      "surfing": {
+        "startupType": "instant"
+      },
+      "templater-obsidian": {
+        "startupType": "instant"
+      },
+      "vertical-tabs": {
+        "startupType": "instant"
+      },
+      "commentator": {
+        "startupType": "disabled"
+      }
+    }
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "29d5cd5d55bd5a97",
+    "type": "split",
+    "children": [
+      {
+        "id": "de16a86f005e77d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b094cefb94125cb4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd7ab77ff5217021",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d4b88add8892fc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0636963319954c01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "db962c2830d5501c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "99cc4f4b9322345a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "cde6136b4ac3f201",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "gallery-vertical",
+              "title": "Vertical tabs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e2b790a046ed126c",
+    "type": "split",
+    "children": [
+      {
+        "id": "95ed8129d2a16f5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04acfea7bc1fd37e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "ce1547ea6f43a230",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "6260fcf440cd7b0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6110fc4489ee4a80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "code-files:Create Code File": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "mesh-ai:Mesh AI Integration": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b094cefb94125cb4",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "obsidian/OBSIDIAN.md",
+    "obsidian/AI.faceswap.md",
+    "obsidian/SPHINX.md",
+    "obsidian/OBSIDIAN.dev.md",
+    "obsidian/vide/6 Strategies for Linking your Visual Thoughts with Obsidian, Excalidraw & ExcaliBrain.md",
+    "obsidian/vide/A Guide to Obsidian, Local, Markdown-Powered Networked Notes.md",
+    "obsidian/vide/Cheating to develop you visual vocabulary in Excalidraw.md",
+    "obsidian/vide/Cheating to develop you visual vocabulary in Excalidraw.svg",
+    "obsidian/OBSIDIAN.plugins.md",
+    "obsidian/OBSIDIAN.plugins.official.md",
+    "obsidian/OBSIDIAN.publish.official.md",
+    "obsidian/OBSIDIAN.publish.official.enigmas..md",
+    "obsidian/OBSIDIAN.customization.md",
+    "obsidian/OBSIDIAN.hotkeys.md",
+    "obsidian/OBSIDIAN.basics.enigmas..md",
+    "obsidian/EXPORT IMAGE - EXCALIDRAW.md",
+    "obsidian/OBSIDIAN.attachments.enigmas..md",
+    "obsidian/DATAVIEW.t.md",
+    "obsidian/D.q.component.v12..md",
+    "obsidian/D.q.component.v06..md",
+    "obsidian/CSS.s.s.bonus.v01.md",
+    "obsidian/OBSIDIAN.sidebars.enigmas..md",
+    "obsidian/OBSIDIAN.hotkeys.enigmas..md",
+    "obsidian/OBSIDIAN.blocks.md",
+    "obsidian/D.q.component.v13.6..md",
+    "obsidian/LINKING YOUR THINKING - OBSIDIAN VAULT.md",
+    "obsidian/OBSIDIAN.folders.png",
+    "obsidian/OBSIDIAN.plugins.svg",
+    "obsidian/OBSIDIAN MISCELLANEOUS.svg",
+    "obsidian/SETUP EXCALIDRAW WEBSITE.svg",
+    "obsidian/OBSIDIAN.dev.svg",
+    "obsidian/OBSIDIAN.basics.png",
+    "obsidian/OBSIDIAN.install.png",
+    "obsidian/OBSIDIAN.install.svg",
+    "obsidian/OBSIDIAN.basics.svg",
+    "obsidian/gnosi",
+    "obsidian/vide",
+    "obsidian",
+    "Clippings",
+    "888/_RESOURCES",
+    "888"
+  ]
+}
